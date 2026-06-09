@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm John Mabeny 👋
 
-<!--
-**Mabeny-dev/Mabeny-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer with a background in Computer and Communications Engineering.
 
-Here are some ideas to get you started:
+I build software systems that solve operational challenges for organizations, NGOs, and businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building **Officera**, a platform that helps organizations collect field data offline, aggregate information automatically, and generate donor-ready reports in minutes.
+
+## Technologies
+
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Express.js
+- PostgreSQL
+- Prisma
+- HTML
+- CSS
+
+## Current Focus
+
+- Full-Stack Development
+- SaaS Architecture
+- Offline-First Applications
+- NGO Technology Solutions
+
+## Links
+
+- [Portfolio] : (https://www.johnmabeny.com/)
+- [LinkedIn] : (https://www.linkedin.com/in/john-mabeny-70b006156/)
+- [Email] : (info@johnmabeny.com)
