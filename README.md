@@ -27,6 +27,6 @@ Currently building **Officera**, a platform that helps organizations collect fie
 
 ## Links
 
-- [Portfolio] : (https://www.johnmabeny.com/)
-- [LinkedIn] : (https://www.linkedin.com/in/john-mabeny-70b006156/)
-- [Email] : (info@johnmabeny.com)
+- [Portfolio]: (https://www.johnmabeny.com/)
+- [LinkedIn]: (https://www.linkedin.com/in/john-mabeny-70b006156/)
+- [Email]: (info@johnmabeny.com)
